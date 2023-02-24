@@ -2,7 +2,7 @@
     "name": "casper-cch",
     "description": "An inspired theme from Casper, used by CodeCraftersHub.com",
     "demo": "https://demo.ghost.io",
-    "version": "5.4.5",
+    "version": "1.0.0",
     "engines": {
         "ghost": ">=5.0.0"
     },
